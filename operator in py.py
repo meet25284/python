@@ -20,16 +20,17 @@ print(a<=b)#it means a is less than equal to b
 
 
 #assignment operator
-print(a=b)#it mean the value of a is assign in a
-a+=b#it mean the value of a+b is assign in a
+a=b #it mean the value of a is assign in a
 print(a)
-a-=b#it mean the value of a-b is assign in a
+a+=b #it mean the value of a+b is assign in a
 print(a)
-a*=b#it mean the value of a*b is assign in a
+a-=b #it mean the value of a-b is assign in a
 print(a)
-a/=b#it mean the value of a/b is assign in a
+a*=b #it mean the value of a*b is assign in a
 print(a)
-a%=b#it mean the value of a%b is assign in a
+a/=b #it mean the value of a/b is assign in a
 print(a)
-a**=b#it mean the value of a**b is assign in a
+a%=b #it mean the value of a%b is assign in a
+print(a)
+a**=b #it mean the value of a**b is assign in a
 print(a)
