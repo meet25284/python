@@ -34,3 +34,15 @@ a%=b #it mean the value of a%b is assign in a
 print(a)
 a**=b #it mean the value of a**b is assign in a
 print(a)
+
+
+
+#logical operator 
+a=10
+b=4
+print(not (a>b))#it mean not true
+a1=68
+b1=15
+print((a>b)and(a1>b1))#it mean both should be true condition
+
+print((a>b)or(a1>b1))#it mean either one should be true condition
