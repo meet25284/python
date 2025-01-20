@@ -1,8 +1,4 @@
-#make basic calculator
-print("welcome to basic calculator!")
-print("1. add")
-print("2. sub")
-print("3. multiply")
-print("4. div")
-print("enter your choice:")
-
+#celcius to farenhit converter
+temp=float(input("enter temperature in celcius:"))
+print((temp*9/5)+32)
+print(end="F")
